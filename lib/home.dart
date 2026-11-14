@@ -7,10 +7,6 @@ class Home extends StatelessWidget {
 
   Widget build(BuildContext context) {
 
-    return const Scaffold(
-
-
-      body:Column()
-    );
+    return const Scaffold();
   }
 }
