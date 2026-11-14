@@ -7,6 +7,12 @@ class Home extends StatelessWidget {
 
   Widget build(BuildContext context) {
 
-    return const Scaffold();
+    return const Scaffold(
+      body: Column(
+        children: [
+          Text('Asmaa')
+        ],
+      ),
+    );
   }
 }
